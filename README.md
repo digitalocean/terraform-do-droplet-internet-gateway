@@ -23,4 +23,3 @@ module "igw" {
   doks_cluster_name = "nyc3-prod1"
 }
 ```
-
